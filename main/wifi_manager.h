@@ -1,0 +1,1 @@
+void wifi_init_sta(uint8_t[] ssid, uint8_t[] password);
